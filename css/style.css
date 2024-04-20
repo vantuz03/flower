@@ -119,6 +119,7 @@ body{
 .description{
     font-size: 25px;
     margin-bottom: 20px;
+    text-align: center;
 }
 
 .button a{
